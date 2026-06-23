@@ -3,12 +3,12 @@ entries:
   kubeheal:
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2026-06-22T23:44:53.044589+05:30"
+    created: "2026-06-23T18:11:41.188416724Z"
     description: GitOps-aware Kubernetes incident intelligence agent
-    digest: ecd1fa092fac08f19c13e0fce79a996bfaee9eaff13f61f8fe7d16c72be6165e
+    digest: 325c21def9b59c4c47159dcadf9c22e40535e5deffa03d820a98c00ba47f18d1
     name: kubeheal
     type: application
     urls:
     - https://sakship3103.github.io/kubeheal-v3-charts/kubeheal-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-22T23:44:53.043015+05:30"
+generated: "2026-06-23T18:11:41.18783732Z"
